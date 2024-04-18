@@ -1,6 +1,6 @@
 # steamcmd
 
-Dockerfile that installs steamcmd & the dependencies.
+Dockerfile that installs a standard docker instance of ubuntu with steamcmd & the dependencies.
 
 To set up a container, just run this command:
 
