@@ -2,7 +2,7 @@ FROM ubuntu
 
 run useradd -m steam
 
-run echo "steam:a" | chpasswd
+run echo "steam:steam" | chpasswd
 
 run chsh steam -s /bin/bash
 
